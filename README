@@ -1,0 +1,10 @@
+Go to https://www.ghostscript.com/releases/gsdnld.html and install ghostscripts for your computer, unless it is already installed.
+In line 42 of main.py replace the path with your path to your ghostscripts bin folder.
+In line 99 of main.py replace the path with your own path.
+Install all imported libraries.
+After running the program use the left mouse button to click and drag to draw within the canvas.
+After drawing your digit click predict to run the prediction.
+NOTE: Center your drawing as much as you can in order to receive a more accurate result!
+Press clear to clear the canvas.
+For concerns or bug reports use the Copy Email button to copy the customer service email to the clipboard.
+Click the reports button to view the confusion matrix.
